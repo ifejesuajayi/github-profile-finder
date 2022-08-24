@@ -1,0 +1,25 @@
+.badge-primary{
+    background: blue;
+    font-size: 18px;
+}
+.badge-secondary{
+    background: green;
+    font-size: 18px;
+}
+.badge-success{
+    background: black;
+    font-size: 18px;
+}
+.badge-info{
+    background: #ccc;
+    font-size: 18px;
+}
+.list-group-item{
+    background: #fff !important;
+    color: black;
+    border: 1px solid #ccc;
+}
+.list-group-item:hover{
+    color: #000;
+    cursor: pointer;
+}
